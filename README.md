@@ -25,7 +25,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 ```javascript
 const pikuri = {
@@ -39,14 +39,14 @@ const pikuri = {
 };
 ```
 
-- 🎮 **Passionate about:** Browser extensions, automation bots, reverse engineering, and cute aesthetic interfaces.
-- 🛠️ **Current Focus:** Manifest V3 extensions, lightweight web tooling, and performance optimization.
-- 💡 **Philosophy:** *"If it works, don't touch it. If it doesn't work, blame cache."*
-- ☕ **Support:** You can buy me a coffee via [Ko-fi](https://ko-fi.com/pikurii) or [Tako](https://tako.id/Pikuri) to fuel late-night coding!
+-  **Passionate about:** Browser extensions, automation bots, reverse engineering, and cute aesthetic interfaces.
+-  **Current Focus:** Manifest V3 extensions, lightweight web tooling, and performance optimization.
+-  **Philosophy:** *"If it works, don't touch it. If it doesn't work, blame cache."*
+-  **Support:** You can buy me a coffee via [Ko-fi](https://ko-fi.com/pikurii) or [Tako](https://tako.id/Pikuri) to fuel late-night coding!
 
 ---
 
-### 🛠️ Languages & Tech Stack
+###  Languages & Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ const pikuri = {
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <div align="center">
 
@@ -99,7 +99,7 @@ const pikuri = {
 
 ---
 
-### 🚀 Highlighted Projects
+###  Highlighted Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
